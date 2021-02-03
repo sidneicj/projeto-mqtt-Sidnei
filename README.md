@@ -1,2 +1,6 @@
-# projeto-mqtt-Sidnei
-Repositório Sprint 8
+# Projeto SENAI
+
+Repositorio criado para apresentação do Projeto no SENAI
+
+**Objetivo:
+
