@@ -35,5 +35,11 @@ Materias utilizados:
 Circuito:
 
 
+![Arduino e Módulo](https://user-images.githubusercontent.com/78084609/106892693-2fb94f80-66cb-11eb-9aa0-3e5a4e6781a1.png)
+
+
+Autor: Sidnei Nassar
+
+
 
 
