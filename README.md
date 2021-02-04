@@ -10,7 +10,9 @@ Utilizar o arduino e um sensor magnetico para monitorar se o rack esta ABERTO ou
 Bibliotecas Utilizadas:
 
 ● UIPEthernet
+
 ● PubSubClient
+
 ● SPI 
 
 Projeto:
